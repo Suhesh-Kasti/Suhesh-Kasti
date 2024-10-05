@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cyber+Security;Ethical+Hacking;Learn+More..)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I'm you friendly neighbourhood Hackerman.
+
 [![Hackerman](https://tenor.com/view/hacker-hackerman-kung-fury-gif-7953536)](https://suhesh.com.np)
 
 ## 📫 Connect with me
@@ -33,7 +34,10 @@ Here are some of my projects:
 ## 🏆 GitHub Stats
 
 ![Suhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhesh-Kasti&show_icons=true&theme=radical)
+
 ![About my Stars](https://www.npr.org/2023/05/30/1178378575/no-till-farming-legend-reddit-hero-honest-work)
+
+--- 
 
 Thank you for visiting my profile! Have a great day! 😊
 
