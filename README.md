@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm you friendly neighbourhood Hackerman.
 
-![Hackerman](https://tenor.com/view/hacker-hackerman-kung-fury-gif-7953536)
+![Hackerman](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjcyZDgwYW9kMGFrYW85dWYxMjNuZDQ1MmgwN2F0dTYzaTlkaTg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YVdfeWMkTr4MU/giphy-downsized-large.gif)
 
 ## 📫 Connect with me
 
@@ -13,7 +13,7 @@ Feel free to reach out to me through any of the following platforms:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kastisuhesh1@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/suheshkasti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suheshkasti)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Kasti-Suhesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Kasti-Suhesh)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@schizo...)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://suhesh.com.np/)
 
@@ -35,7 +35,7 @@ Here are some of my projects:
 
 ![Suhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhesh-Kasti&show_icons=true&theme=radical)
 
-![About my Stars](https://www.npr.org/2023/05/30/1178378575/no-till-farming-legend-reddit-hero-honest-work)
+![About my Stars](https://media.npr.org/assets/img/2023/05/26/honest-work-meme-c7034f8bd7b11467e1bfbe14b87a5f6a14a5274b.jpg?s=1100&c=85&f=webp)
 
 --- 
 
