@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm you friendly neighbourhood Hackerman.
 
-![Hackerman](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjcyZDgwYW9kMGFrYW85dWYxMjNuZDQ1MmgwN2F0dTYzaTlkaTg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YVdfeWMkTr4MU/giphy-downsized-large.gif)
+![Hackerman](https://media.giphy.com/media/92KgrxwgebKs7eFkqr/giphy.gif?cid=ecf05e475h58h2ef9uf9nuslmfdn77ecft1g5so6knw4tc48&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 📫 Connect with me
 
@@ -31,18 +31,20 @@ Here are some of my projects:
 - **Tools:** Git, F5-BigIP
 - **Others:** CTFs ...
 
+## ⭐ Star this repository!
+
+If you find me interesting, you can give me some stars! 
+
+[![Stars](https://img.shields.io/github/stars/Suhesh-Kasti/suhesh-kasti?style=social)](https://github.com/Suhesh-Kasti)
+
+
 ## 🏆 GitHub Stats
 
 ![Suhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhesh-Kasti&show_icons=true&theme=radical)
-
-![About my Stars](https://media.npr.org/assets/img/2023/05/26/honest-work-meme-c7034f8bd7b11467e1bfbe14b87a5f6a14a5274b.jpg?s=1100&c=85&f=webp)
 
 --- 
 
 Thank you for visiting my profile! Have a great day! 😊
 
-## ⭐ Star this repository!
+![About my Stars](https://media.npr.org/assets/img/2023/05/26/honest-work-meme-c7034f8bd7b11467e1bfbe14b87a5f6a14a5274b.jpg?s=1100&c=85&f=webp)
 
-If you find my projects interesting, please give them a star! Your support means a lot to me.
-
-[![Stars](https://img.shields.io/github/stars/Suhesh-Kasti/suhesh-kasti?style=social)](https://github.com/Suhesh-Kasti)
