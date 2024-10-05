@@ -1,8 +1,7 @@
 # 👋 Hey there, Beautiful Stranger! I'm Suhesh Kasti
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cyber+Security;Ethical+Hacking;Learn+More..)](https://git.io/typing-svg)
-
-Welcome to my GitHub profile! I'm you friendly neighbourhood Hackerman.
+Welcome to my GitHub profile! I'm your friendly neighbourhood Hackerman.
 
 ![Hackerman](https://media.giphy.com/media/92KgrxwgebKs7eFkqr/giphy.gif?cid=ecf05e475h58h2ef9uf9nuslmfdn77ecft1g5so6knw4tc48&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
