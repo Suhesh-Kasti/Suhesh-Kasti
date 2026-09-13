@@ -20,7 +20,7 @@
 
 **3+ years in IT** — 2.5 of them running **F5 BIG-IP ASM/WAF** in production, most of the rest doing customer-facing tech support. Currently pushing through the **HTB CPTS** cert and poking at **mobile pentesting** on the side.
 
-Everything I learn ends up on my site. Not notes-to-self — actual writeups. **100 lab walkthroughs** and **187 articles** so far, and if one of them saves you an evening, that was the whole point.
+Everything I learn ends up on my site. **100 lab walkthroughs** and **187 articles** so far, and if one of them saves you an evening, that was the whole point.
 
 <div align="center">
 
@@ -34,15 +34,13 @@ Everything I learn ends up on my site. Not notes-to-self — actual writeups. **
 
 ### 📡 Right now
 
-- Grinding the **HTB CPTS** path — boxes, not just theory
+- Grinding the **HTB CPTS** path
 - Learning **mobile application pentesting**
 - Still writing up every lab, because half of learning this stuff is explaining it back to someone
 
 ---
 
 ### 🧰 What I actually know
-
-No percentage bars, because "85% at web exploitation" means nothing. Here's the honest version — click to expand.
 
 <details>
 <summary><b>Offensive security</b></summary>
@@ -80,7 +78,7 @@ Docker daily — not an expert, but it's how I run things. Git and GitHub, a bit
 </details>
 
 <details>
-<summary><b>Certifications — five, all verifiable</b></summary>
+<summary><b>Certifications</b></summary>
 
 | Certification | Issuer |
 |---|---|
@@ -90,7 +88,7 @@ Docker daily — not an expert, but it's how I run things. Git and GitHub, a bit
 | **[F5 Certified Administrator (F5-CA)](https://www.credly.com/badges/66d58a6c-b052-4eba-b8bf-f77864684db6/public_url)** | F5 Networks |
 | **Google Cybersecurity Certificate** | Google |
 
-Each one links to its verification on **[my about page →](https://suhesh.com.np/about)**
+View it on **[my about page →](https://suhesh.com.np/about)**
 
 </details>
 
@@ -108,15 +106,13 @@ Each one links to its verification on **[my about page →](https://suhesh.com.n
 
 ### ✍️ Why the site exists
 
-Most people's security notes live in a folder nobody ever sees. I'd rather publish mine — partly because writing for an actual reader forces me to understand it properly, and partly because someone googling a specific PortSwigger lab at 2am deserves better than a blog post from 2016 that says "just use sqlmap".
+Most people's security notes live in a folder nobody ever sees. I'd rather publish mine — partly because writing for an actual reader forces me to understand it properly.
 
 The whole thing is open source, including the content pipeline. **[Have a look →](https://github.com/Suhesh-Kasti/suhesh)**
 
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suhesh-Kasti&show_icons=true&bg_color=111111&title_color=ff1144&text_color=fafaf5&icon_color=ff5500&border_color=2b2b2b&hide_border=false&include_all_commits=true" height="165" alt="Suhesh's GitHub stats" />
 
 <br/>
 
